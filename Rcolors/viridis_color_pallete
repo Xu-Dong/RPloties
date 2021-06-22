@@ -1,0 +1,2 @@
+install.packages("viridis")  # Install
+library("viridis")           # Load
