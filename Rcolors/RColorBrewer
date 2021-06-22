@@ -1,0 +1,5 @@
+library(RColorBrewer)
+
+ display.brewer.all() # display all color palletes in this package
+ display.brewer.pal(n=8,name="Dark2") # display 8 colors in pallete "Dark2"
+ brewer.pal(n=8,name="Dark2") # show 8 colors in pallete "Dark2"
