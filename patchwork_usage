@@ -5,4 +5,5 @@ patchwork is different from gridExtra::grid.arrange() and cowplot::plot_grid.
 ## Install
 devtools::install_github("thomasp85/patchwork")
 
-## [Simple document](https://cran.r-project.org/web/packages/patchwork/vignettes/patchwork.html)
+## [Simple document]
+Find the simple guide on patchwork [here](https://cran.r-project.org/web/packages/patchwork/vignettes/patchwork.html)
