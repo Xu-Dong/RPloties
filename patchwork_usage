@@ -1,0 +1,8 @@
+# patchwork
+Patchwork is a package with the goal to make it ridiculously simple to combine separate ggplots into the same graphic.
+patchwork is different from gridExtra::grid.arrange() and cowplot::plot_grid.
+
+## Install
+devtools::install_github("thomasp85/patchwork")
+
+## [Simple document](https://cran.r-project.org/web/packages/patchwork/vignettes/patchwork.html)
